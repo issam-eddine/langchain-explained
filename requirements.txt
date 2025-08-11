@@ -1,0 +1,16 @@
+duckduckgo-search
+groq
+ipykernel
+langchain
+langchain-community
+langchainhub
+langchain-core
+langchain-groq
+langchain-openai
+langchain-redis
+openai
+pydantic
+python-dotenv
+redis
+youtube-search
+youtube-transcript-api
